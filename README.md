@@ -8,7 +8,6 @@
 * [4. Consideraciones generales](#4-consideraciones-generales)
 * [5. Criterios de aceptación mínimos del proyecto](#5-criterios-de-aceptaci%C3%B3n-m%C3%ADnimos-del-proyecto)
 * [6. Pistas, tips y lecturas complementarias](#6-pistas-tips-y-lecturas-complementarias)
-* [7 HTTP API Checklist](#7-http-api-checklist)
 
 ## 1. Preámbulo
 
